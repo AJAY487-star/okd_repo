@@ -1,5 +1,5 @@
 <?php
 
-print "welocme to first page";
+print "welocme to second page";
 
 ?>
